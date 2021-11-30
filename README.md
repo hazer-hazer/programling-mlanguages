@@ -8,7 +8,7 @@ Supported input extensions: `.txt` (white-space separated words), `.json` (array
 
 - `-i` - Specify input file after this option
 - `-o` - This one for the output file
-- `-e` - Set output extension. You can also use `md` to get a Markdown list of words
+- `-e` - Set output extension. You can also use `md` to get a Markdown list of words. If `-e` is not specified then extension/format is automatically determined by extension of `-i` file.
 - `-f` - Force to include words without `L` (localized)
 
 ## Mleow
