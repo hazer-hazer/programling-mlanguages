@@ -32,7 +32,7 @@ if (pls.length && inputFile) {
     console.log('\u001b[35mYou passed strings to the CLI while also specified an input file, contents will be merged\u001b[0m');
 }
 
-const ml = w => w.replace(/(?<![m])L/gi, 'ML').replace(/(?<![м])Л/gi, 'МЛ')
+const ml = w => w.replace(/(?<![m])L|M(?!L)/gi, 'ML').replace(/(?<![м])Л|М(?!Л)/gi, 'МЛ')
 
 if (inputFile) {
     const contents = fs.readFileSync(inputFile, 'utf-8')
