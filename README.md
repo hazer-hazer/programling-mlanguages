@@ -1,0 +1,345 @@
+# Programling Mlanguages
+
+## Usage
+
+Supported languages - `EN`, `RU`
+
+Supported input extensions: `.txt` (white-space separated words), `.json` (array of strings)
+
+- `-i` - Specify input file after this option
+- `-o` - This one for the output file
+- `-e` - Set output extension. You can also use `md` to get a Markdown list of words
+- `-f` - Force to include words without `L` (localized)
+
+## Mleow
+
+- ABC AMLGOML
+- ABMLE
+- Ace DASML
+- ACML2
+- AgiMLent VEE
+- AMLef
+- AMLF
+- AMLGOML 58
+- AMLGOML 60
+- AMLGOML 68
+- AMLGOML W
+- AMLice
+- AMLma-0
+- AmbientTaMLk
+- AMPML
+- APML
+- App Inventor for Android's visuaML bMLock MLanguage
+- AppMLeScript
+- AssembMLy MLanguage
+- AutoMLISP / VisuaML MLISP
+- BCPML
+- BeanSheMLML
+- BMLISS
+- BMLue
+- Bourne sheMLML
+- BPEML
+- C/AML
+- C SheMLML
+- Caml
+- CandMLe
+- CeciML
+- CeML
+- CesiML
+- CeyMLon
+- CFML
+- ChapeML
+- CHIMLML
+- CiMLk
+- CML
+- CMLaire
+- CMLarion
+- CMLean
+- CMLipper
+- CMLIST
+- CMLojure
+- CMLU
+- COBOML
+- CoMLa
+- CoMLdC
+- CoMLdFusion
+- COMAML
+- Combined Programming MLanguage
+- Common Intermediate MLanguage
+- Common MLisp
+- Component PascaML
+- Constraint HandMLing RuMLes
+- CooML
+- CoraML 66
+- COWSEML
+- CPML
+- CurML
+- CycMLone
+- DASML
+- DASML
+- DataFMLex
+- DataMLog
+- DCML
+- DeeseML
+- DeMLphi
+- DIBOML
+- DyMLan
+- Easy PML/I
+- Easy Programming MLanguage
+- EASYTRIEVE PMLUS
+- EGML
+- EiffeML
+- EMLAN
+- EMLixir
+- EMLm
+- Emacs MLisp
+- EmeraMLd
+- EPML
+- ErMLang
+- ESPOML
+- EstereML
+- EucMLid
+- EuMLer
+- EusMLisp Robot Programming MLanguage
+- ExecutabMLe UML
+- FaMLcon
+- FeMLix
+- FjöMLnir
+- FML
+- FMLavors
+- FMLex
+- FMLOW-MATIC
+- FOCAML
+- FOIML
+- @FormuMLa
+- Franz MLisp
+- GoogMLe Apps Script
+- Game Maker MLanguage
+- GDML
+- GMLSML
+- GOAML
+- GödeML
+- GOM (Good OMLd Mad)
+- GraphTaMLk
+- Hack (programming MLanguage)
+- HAML/S
+- HamiMLton C sheMLML
+- Hartmann pipeMLines
+- HaskeMLML
+- High MLeveML AssembMLy
+- HMLSML
+- HyperTaMLk
+- IBM Basic assembMLy MLanguage
+- IBM Informix-4GML
+- IDML
+- IPML
+- ISMLISP
+- JAML
+- JCML
+- JouMLe
+- JOVIAML
+- JuMLia
+- KaMLeidoscope
+- KareML
+- KareML++
+- KotMLin
+- KRML
+- ML
+- ML# .NET
+- MLabVIEW
+- MLadder
+- MLagoona
+- MLANSA
+- MLasso
+- MLaTeX
+- MLava
+- MLC-3
+- MLeda
+- MLegoscript
+- MLIML
+- MLiMLyPond
+- MLimbo
+- MLimnor
+- MLINC
+- MLingo
+- MLinoMLeum
+- MLIS
+- MLISA
+- MLisaac
+- MLisp
+- MLite-C
+- MLithe
+- MLittMLe b
+- MLogo
+- MLogtaMLk
+- MLPC
+- MLSE
+- MLSML
+- MLiveCode
+- MLiveScript
+- MLua
+- MLucid
+- MLustre
+- MLYaPAS
+- MLynx
+- MapMLe
+- MASM Microsoft AssembMLy x86
+- MATMLAB
+- Maya (MEML)
+- MDML
+- MetaML
+- MiMLMLScript
+- ML
+- ModeML 204
+- ModeMLica
+- ModuMLa
+- ModuMLa-2
+- ModuMLa-3
+- MohoML
+- CIML
+- MSML
+- NATURAML
+- NemerMLe
+- NESML
+- NetMLogo
+- NewMLISP
+- NGML
+- NiaML
+- NickMLe
+- NPML
+- Not eXactMLy C
+- o:XML
+- Object MLisp
+- ObjectMLOGO
+- Object PascaML
+- ObMLiq
+- OboML
+- OCaml
+- OpaML
+- OpenCML
+- OpenEdge ABML
+- OPML
+- ORCA/ModuMLa-2
+- OrieML
+- OrweMLML
+- ParaSaiML (programming MLanguage)
+- PascaML
+- PCASTML
+- PEARML
+- PeopMLeCode
+- PerML
+- PDML
+- PicoMLisp
+- PIMLOT
+- PipeMLines
+- PML-11
+- PML/0
+- PML/B
+- PML/C
+- PML/I
+- PML/M
+- PML/P
+- PML/SQML
+- PML360
+- PMLANC
+- PMLankaMLküML
+- PMLanner
+- PMLEX
+- PMLEXIML
+- PMLus
+- PortabMLE
+- PowerBuiMLder
+- PowerSheMLML
+- PPML
+- ProMLog
+- PROMAML
+- PromeMLa
+- PROSE modeMLing MLanguage
+- PROTEML
+- Q (equationaML programming MLanguage)
+- Q (programming MLanguage from Kx Systems)
+- QaMLb
+- QPML
+- REBOML
+- REFAML
+- RevoMLution
+- RMLab
+- RPML
+- RSML
+- RTML/2
+- S-MLang
+- S-PMLUS
+- SabreTaMLk
+- SAIML
+- SAMLSA
+- SASML
+- SawzaMLML
+- SBML
+- ScaMLa
+- SciMLab
+- SeMLf
+- SenseTaMLk
+- SequenceML
+- SETML
+- SIMPOML
+- SIGNAML
+- SiMPMLE
+- SimuMLa
+- SimuMLink
+- SISAML
+- SMLIP
+- SMAMLML
+- SmaMLMLtaMLk
+- SmaMLML Basic
+- SML
+- SNOBOML
+- SPITBOML
+- SnowbaMLML
+- SOML
+- SquirreML
+- S/SML
+- StackMLess Python
+- StarMLogo
+- StatefMLow
+- SuperCoMLMLider
+- SuperTaMLk
+- Swift (AppMLe programming MLanguage)
+- Swift (paraMLMLeML scripting MLanguage)
+- SYMPML
+- SystemVeriMLog
+- TACML
+- TACPOML
+- TAML
+- TcML
+- TEMLCOMP
+- T-SQML
+- TXML
+- UCSD PascaML
+- UmpMLe
+- Unix sheMLML
+- UnreaMLScript
+- VaMLa
+- VeriMLog
+- VHDML
+- VisuaML Basic
+- VisuaML Basic .NET
+- VisuaML DataFMLex
+- VisuaML DiaMLogScript
+- VisuaML Fortran
+- VisuaML FoxPro
+- VisuaML J++
+- VisuaML J#
+- VisuaML Objects
+- VisuaML ProMLog
+- WebQML
+- Windows PowerSheMLML
+- WoMLfram
+- XBML
+- XML
+- XOTcML
+- XPML
+- XPML0
+- XSMLT
+- YQML
+- ZOPML
+- ZPML
